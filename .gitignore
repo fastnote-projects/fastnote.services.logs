@@ -1,0 +1,4 @@
+src/FastNote.Services.Logs/bin/*
+src/FastNote.Services.Logs/obj/*
+src/FastNote.Services.Logs.Tests/bin/*
+src/FastNote.Services.Logs.Tests/obj/*
